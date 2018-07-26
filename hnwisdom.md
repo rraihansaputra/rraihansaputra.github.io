@@ -10,56 +10,57 @@ From my favorite comments http://raihan.co/hnfav
 - [seeing the world](#seeing-the-world)
 - [What do you want?](#what-do-you-want)
 - [physical health](#physical-health)
-  - [get fit, seriously](#get-fit-seriously)
-  - [food intake](#food-intake)
-    - [fasting is good](#fasting-is-good)
-  - [exercise routines](#exercise-routines)
+    - [get fit, seriously](#get-fit-seriously)
+    - [food intake](#food-intake)
+        - [no sugar. it’s addictive. gives energy. not easy, but needed.](#no-sugar-its-addictive-gives-energy-not-easy-but-needed)
+        - [fasting is good](#fasting-is-good)
+    - [exercise routines](#exercise-routines)
 - [mental health](#mental-health)
-  - [On hardship and dealing with feelings](#on-hardship-and-dealing-with-feelings)
-  - [not only capturing thoughts for logical processing, but also emotional processing](#not-only-capturing-thoughts-for-logical-processing-but-also-emotional-processing)
-  - [Stoicism quotes](#stoicism-quotes)
-  - [defining success](#defining-success)
-  - [goals are not happiness](#goals-are-not-happiness)
-  - [pointers](#pointers)
-  - [be intentional with time](#be-intentional-with-time)
-  - [being happy all the time is NOT the goal.. but satisfaction is important](#being-happy-all-the-time-is-not-the-goal-but-satisfaction-is-important)
-  - [do other stuff](#do-other-stuff)
-  - [the joy of missing out](#the-joy-of-missing-out)
+    - [On hardship and dealing with feelings](#on-hardship-and-dealing-with-feelings)
+    - [not only capturing thoughts for logical processing, but also emotional processing](#not-only-capturing-thoughts-for-logical-processing-but-also-emotional-processing)
+    - [Stoicism quotes](#stoicism-quotes)
+    - [defining success](#defining-success)
+    - [goals are not happiness](#goals-are-not-happiness)
+    - [pointers](#pointers)
+    - [be intentional with time](#be-intentional-with-time)
+    - [being happy all the time is NOT the goal.. but satisfaction is important](#being-happy-all-the-time-is-not-the-goal-but-satisfaction-is-important)
+    - [do other stuff](#do-other-stuff)
+    - [the joy of missing out](#the-joy-of-missing-out)
 - [relationship](#relationship)
-  - [time](#time)
-  - [Be kind and caring - with effort.](#be-kind-and-caring---with-effort)
-  - [Be nice](#be-nice)
-  - [Communication is hard](#communication-is-hard)
-  - [sounding board, not advisors](#sounding-board-not-advisors)
+    - [time](#time)
+    - [Be kind and caring - with effort.](#be-kind-and-caring---with-effort)
+    - [Be nice](#be-nice)
+    - [Communication is hard](#communication-is-hard)
+    - [sounding board, not advisors](#sounding-board-not-advisors)
 - [How to deal with my ADHD tendency](#how-to-deal-with-my-adhd-tendency)
 - [Organizing thoughts](#organizing-thoughts)
-  - [Trello boards](#trello-boards)
-  - [Evaluating Ideas](#evaluating-ideas)
-  - [prioritizing list](#prioritizing-list)
+    - [Trello boards](#trello-boards)
+    - [Evaluating Ideas](#evaluating-ideas)
+    - [prioritizing list](#prioritizing-list)
 - [Doing stuff](#doing-stuff)
-  - [build relationships, quickly](#build-relationships-quickly)
-  - [stages](#stages)
-  - [just start doing](#just-start-doing)
-  - [On Side Projects](#on-side-projects)
-  - [diminishing returns to preparation](#diminishing-returns-to-preparation)
+    - [build relationships, quickly](#build-relationships-quickly)
+    - [stages](#stages)
+    - [just start doing](#just-start-doing)
+    - [On Side Projects](#on-side-projects)
+    - [diminishing returns to preparation](#diminishing-returns-to-preparation)
 - [On presenting](#on-presenting)
-  - [build a story, and focus on visuals](#build-a-story-and-focus-on-visuals)
-  - [again, visuals. pared down visuals.](#again-visuals-pared-down-visuals)
+    - [build a story, and focus on visuals](#build-a-story-and-focus-on-visuals)
+    - [again, visuals. pared down visuals.](#again-visuals-pared-down-visuals)
 - [Interesting business model](#interesting-business-model)
-  - [Wanqu](#wanqu)
+    - [Wanqu](#wanqu)
 - [Random Reading/Watching](#random-readingwatching)
 - [Book list](#book-list)
-  - [On Programming](#on-programming)
+    - [On Programming](#on-programming)
 - [Learning](#learning)
 - [Podcasts](#podcasts)
 - [What I’ve watched but want to recommend to people](#what-ive-watched-but-want-to-recommend-to-people)
 - [Random Quotes](#random-quotes)
-  - [on fulfillment](#on-fulfillment)
+    - [on fulfillment](#on-fulfillment)
 - [don’t program in vacuum](#dont-program-in-vacuum)
 - [not burning out while being a creator](#not-burning-out-while-being-a-creator)
 - [interesting projects](#interesting-projects)
-  - [hypertext.town](#hypertexttown)
-  - [host your own video stream](#host-your-own-video-stream)
+    - [hypertext.town](#hypertexttown)
+    - [host your own video stream](#host-your-own-video-stream)
 - [code structuring](#code-structuring)
 - [static sites](#static-sites)
 - [csv data manipulation using SQLite and csvkit](#csv-data-manipulation-using-sqlite-and-csvkit)
@@ -74,11 +75,11 @@ From my favorite comments http://raihan.co/hnfav
 - [why art self-destructed](#why-art-self-destructed)
 - [no, work does not have to be (and improbably is) interesting](#no-work-does-not-have-to-be-and-improbably-is-interesting)
 - [Ask HN: What do you live for?](#ask-hn-what-do-you-live-for)
-  - [religion as a set framework](#religion-as-a-set-framework)
+    - [religion as a set framework](#religion-as-a-set-framework)
 
 #  Stop looking for more of this stuff 
 
-“There a lot of great points on this thread. We need more distinction between contextual and non-contextual advice. If one is ‘at the board’ working through a problem — then a hint or solution, moves the problem forward. On the other hand, if one is just ‘leisurely browsing advice listicles’ without being at the board, facing the problem, then most likely you are just ingesting dopamine-flavored noise.
+“There a lot of great points on this thread. We need more distinction between contextual and non-contextual advice. If one is ‘at the board’ working through a problem — then a hint or solution, moves the problem forward. On the other hand, if one is just ‘leisurely browsing advice listicles’ without being at the board, facing the problem, then most likely you are just ingesting dopamine-flavored noise.  
 Advice without context from anyone — whether it is PG, pmarca or Richard Feynman or {_your_fav_successful_survivor_} - would be useless, unless you are working/thinking about the problem that they are giving solutions for. Help only works if you are looking for something. Also sometimes it is good to just enjoy problem-solving and figuring things out. We are too quick to look for advice — and I get why: because no one wants to “reinvent the wheel”; There are too many standardized administrative things with startups that can be just solved by looking up advice; no problem with that; but sometimes it is worth struggling through a problem even though geniuses like PG and pmarca can give a solution quickly.”  
 https://news.ycombinator.com/item?id=17594709
 
@@ -122,7 +123,7 @@ https://news.ycombinator.com/item?id=17595979
 
 
 ## food intake  
-no sugar. it’s addictive. gives energy. not easy, but needed.  
+### no sugar. it’s addictive. gives energy. not easy, but needed.  
 “whole fruit, salad, no dressing, chicken, steak, salmon and water.”  
 “your taste buds adjust over time”  
 “My energy levels jumped when I changed my lunches from carbs&protein (pasta, potato etc) to salads with protein.  
@@ -137,7 +138,7 @@ https://news.ycombinator.com/item?id=17501439
 https://news.ycombinator.com/item?id=17501439
 
 ## exercise routines
-“I cancelled my gym membership. Now I just do 3 sets of: - 1m30s plank - 20 situps - 5 leg lifts - 15 pushups
+“I cancelled my gym membership. Now I just do 3 sets of: - 1m30s plank - 20 situps - 5 leg lifts - 15 pushups  
 
 I try to add a few reps to the sets every week or two and another exercise was a recent innovation. I started out at: - 1 minute plank - 15 situps - 10 pushups
 
