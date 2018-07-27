@@ -81,18 +81,18 @@ From my favorite comments <http://raihan.co/hnfav>
 
 “There a lot of great points on this thread. We need more distinction between contextual and non-contextual advice. If one is ‘at the board’ working through a problem — then a hint or solution, moves the problem forward. On the other hand, if one is just ‘leisurely browsing advice listicles’ without being at the board, facing the problem, then most likely you are just ingesting dopamine-flavored noise.  
 Advice without context from anyone — whether it is PG, pmarca or Richard Feynman or {_your_fav_successful_survivor_} - would be useless, unless you are working/thinking about the problem that they are giving solutions for. Help only works if you are looking for something. Also sometimes it is good to just enjoy problem-solving and figuring things out. We are too quick to look for advice — and I get why: because no one wants to “reinvent the wheel”; There are too many standardized administrative things with startups that can be just solved by looking up advice; no problem with that; but sometimes it is worth struggling through a problem even though geniuses like PG and pmarca can give a solution quickly.”  
-<https://news.ycombinator.com/item?id=17594709>>
+<https://news.ycombinator.com/item?id=17594709>
 
 # stop hitting the dopamine boosts
 “You are drinking from the water hose. Do this long enough and your ability to concentrate will atrophy, it is a muscle that needs regular exercise. The first step is to understand what you are doing to your brain.  
 Try this: instead of merely skimming articles, make it mandatory to summarize everything you read in a few sentences. You'll very soon figure out that most what you read does not really interest you. Understanding requires work and deeper motivation to do so.”  
-<https://news.ycombinator.com/item?id=17417167>>
+<https://news.ycombinator.com/item?id=17417167>
 
 # human width
 "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
 
 -Robert A. Heinlein  
-<https://news.ycombinator.com/item?id=16797573>>
+<https://news.ycombinator.com/item?id=16797573>
 
 # seeing the world
 Don’t believe your thoughts. The voice in your head sounds like your voice but that doesn’t make it yours.
@@ -292,19 +292,19 @@ For me at least, having that stated explicitly in my mind alters my perception o
 Accepting things that already are should come pretty naturally though. You may want to change something. But you can't change the past.”
 “I agree, but you're not going to counter bumper sticker phrases with multi-paragraph quasi-Buddhist philosophy. :-) So I just stick with "what a load of crap".
 But you're coming at it from a different angle, I feel. Instead of "finding your passion", I hear you advising a different way of looking at it such that one can find fulfillment (for lack of better phrasing) in whatever job by matching the story in one's head to reality. I'm on board. Hell, I've been happy doing janitorial work. Was it my passion? Well, no. But it needed to be done, and I could do it, they're paying me, and in the end there's something satisfying about a clean floor. That was enough for me at the time.”
-“You guys are both right. You're saying "crap work" and "load of crap" figuratively, by my wife deals with it literally! She has a masters degree in marketing but rather run her own business than work for a boss. It's a dog kennel and three times a day she walks around the property poop-scooping. Her business is her passion, but it comes with some crap work. She's very happy.”
+“You guys are both right. You're saying "crap work" and "load of crap" figuratively, by my wife deals with it literally! She has a masters degree in marketing but rather run her own business than work for a boss. It's a dog kennel and three times a day she walks around the property poop-scooping. Her business is her passion, but it comes with some crap work. She's very happy.”  
 <https://news.ycombinator.com/item?id=17524210>
 
 ## do other stuff
 >My gut feeling is most of us would be better off doing something completely different in our spare time, ideally something that doesn't involve sitting behind a keyboard.  
->>Your gut wants you to exercise and take hikes looking at green things every once in a while.  
+>Your gut wants you to exercise and take hikes looking at green things every once in a while.  
 
 <https://news.ycombinator.com/item?id=17015819>  
 
 “Stay the course, but be sure to have interests and hobbies that don't involve sitting in front of a computer. I wouldn't change anything about my career trajectory. I'm glad I spent four years in a huge corporation, and I'm glad that I've had the opportunity to work in (and create) companies of all different sizes subsequently.
 
 It's not even a regret, per se, but I wish I'd gotten more serious about photography in/around 2007 instead of dithering for another six years.”  
-<https://news.ycombinator.com/item?id=17595872>  >> email this guy
+<https://news.ycombinator.com/item?id=17595872>  > email this guy
 
 ## the joy of missing out
 “I've regained a lot of mental peace once I quit Instagram. When you have hundreds of friends and follow random influencers, you get the impression that every single person is always on a beach in Bali, eating at Michelin star restaurants, riding Lambos and partying with attractive, successful people in the most exclusive venues in exotic locations. In the meanwhile you're a corporate drone stuck in traffic to get to your grey cubicle, dealing with a shitty boss, trying to figure out how to pay rent.
@@ -326,7 +326,7 @@ We are living in the tail end of most of our cherished relationships (with famil
 
 1) Priorities matter. Your remaining face time with any person depends largely on where that person falls on your list of life priorities. Make sure this list is set by you—not by unconscious inertia.
 
-2) Quality time matters. If you’re in your last 10% of time with someone you love, keep that fact in the front of your mind when you’re with them and treat that time as what it actually is: precious."
+2) Quality time matters. If you’re in your last 10% of time with someone you love, keep that fact in the front of your mind when you’re with them and treat that time as what it actually is: precious."  
 <http://waitbutwhy.com/2015/12/the-tail-end.html>
 
 ## Be kind and caring - with effort.  
@@ -497,7 +497,7 @@ Visuals are good when possible. Even dumb stock photos can work: for example, if
 Needless to say, that this guy's combination of laziness and arrogance had led to him to have a much better presentation than me with much less effort left me absolutely furious.”  
 <https://news.ycombinator.com/item?id=15632693>  
 
-<https://github.com/josephwright/beamer,> <https://news.ycombinator.com/item?id=15636851>
+<https://github.com/josephwright/beamer>, <https://news.ycombinator.com/item?id=15636851>
 
 
 # Interesting business model
@@ -516,23 +516,23 @@ Needless to say, that this guy's combination of laziness and arrogance had led t
 <https://news.ycombinator.com/item?id=15150622>  
 
 # Random Reading/Watching
-Hannu Rajaniemi (on privacy and identity), <https://news.ycombinator.com/item?id=13983972>>
-<http://directingmind.com/>> (quotes from Meditations),  <https://news.ycombinator.com/item?id=13970017>>
-<https://www.imdb.com/title/tt2089050/>> (Black Mirror), <https://news.ycombinator.com/item?id=16933005>>  
+Hannu Rajaniemi (on privacy and identity), <https://news.ycombinator.com/item?id=13983972>
+<http://directingmind.com/> (quotes from Meditations),  <https://news.ycombinator.com/item?id=13970017>
+<https://www.imdb.com/title/tt2089050/> (Black Mirror), <https://news.ycombinator.com/item?id=16933005>  
 
 
 # Book list
-Manual of the Mercenary Soldier (1988), Paul Balor, <https://news.ycombinator.com/item?id=12640780>>  
-Zen and the Art of Motorcycle Maintenance, Robert Pirsig, <https://news.ycombinator.com/item?id=13967883>>  
-Influence: The Psychology of Persuasion, Robert Cialdini, <https://news.ycombinator.com/item?id=13967822>>  
-Meditations, Marcus Aurelius (find a suitable translation), <https://news.ycombinator.com/item?id=13969479>>  
-How to Lie with Statistics, Darrell Huff, <https://news.ycombinator.com/item?id=13968889>>  
-Fooled by Randomness, Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13968889>>  
-Antifragile, Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13967683>>  
-The Black Swan (2nd edition), Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13968889>>  
-Man's Search For Meaning, Viktor Frankl, <https://news.ycombinator.com/item?id=13967989>>
-"How Buildings Learn: What Happens After They're Built”, Steward Brand(?), <https://news.ycombinator.com/item?id=17023817>>  
-"The Influential Mind”, Tali Sharot, <https://news.ycombinator.com/item?id=17087000>>
+Manual of the Mercenary Soldier (1988), Paul Balor, <https://news.ycombinator.com/item?id=12640780>  
+Zen and the Art of Motorcycle Maintenance, Robert Pirsig, <https://news.ycombinator.com/item?id=13967883>  
+Influence: The Psychology of Persuasion, Robert Cialdini, <https://news.ycombinator.com/item?id=13967822>  
+Meditations, Marcus Aurelius (find a suitable translation), <https://news.ycombinator.com/item?id=13969479>  
+How to Lie with Statistics, Darrell Huff, <https://news.ycombinator.com/item?id=13968889>  
+Fooled by Randomness, Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13968889>  
+Antifragile, Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13967683>  
+The Black Swan (2nd edition), Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13968889>  
+Man's Search For Meaning, Viktor Frankl, <https://news.ycombinator.com/item?id=13967989>
+"How Buildings Learn: What Happens After They're Built”, Steward Brand(?), <https://news.ycombinator.com/item?id=17023817>  
+"The Influential Mind”, Tali Sharot, <https://news.ycombinator.com/item?id=17087000>
 
 ## On Programming
 Three boks I'll recommend you read as soon as possible.
@@ -542,20 +542,20 @@ Three boks I'll recommend you read as soon as possible.
 
 3) Code Complete.
  
-<https://news.ycombinator.com/item?id=17031874>>  
+<https://news.ycombinator.com/item?id=17031874>  
 
 # Learning
-Product Design Course on edX, TU Delft, <https://news.ycombinator.com/item?id=13164445>>  
+Product Design Course on edX, TU Delft, <https://news.ycombinator.com/item?id=13164445>  
 
 # Podcasts
-Update-Crispr, Radiolab, <https://news.ycombinator.com/item?id=14249659>>  
+Update-Crispr, Radiolab, <https://news.ycombinator.com/item?id=14249659>  
 
 # What I’ve watched but want to recommend to people
 Fictional World War 3 Documentary, <https://news.ycombinator.com/item?id=14508078>
 
 # Random Quotes
 ## on fulfillment  
-“When something competes with established channels for individual fulfillment, the people who control those channels (politicians, manufacturers, priests, ministers) will oppose, vilify, and demonize it.” 
+“When something competes with established channels for individual fulfillment, the people who control those channels (politicians, manufacturers, priests, ministers) will oppose, vilify, and demonize it.”  
 <https://news.ycombinator.com/item?id=15512691>  
 
 “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams  
@@ -601,7 +601,7 @@ host simple websites!
 Dependencies (coupling) is an important concern to address, but it's only 1 of 4 criteria that I consider and it's not the most important one. I try to optimize my code around reducing state, coupling, complexity and code, in that order. I'm willing to add increased coupling if it makes my code more stateless. I'm willing to make it more complex if it reduces coupling. And I'm willing to duplicate code if it makes the code less complex. Only if it doesn't increase state, coupling or complexity do I dedup code.
 
 State > Coupling > Complexity > Duplication. I find that to be a very sensible ordering of concerns to keep in mind when addressing any of those.”
-“>> Existing code exerts a powerful influence. Its very presence argues that it is both correct and necessary.“  
+“> Existing code exerts a powerful influence. Its very presence argues that it is both correct and necessary.“  
 <https://news.ycombinator.com/item?id=17580194>
 
 # static sites
@@ -614,7 +614,7 @@ State > Coupling > Complexity > Duplication. I find that to be a very sensible o
 vim+tmux, <https://news.ycombinator.com/item?id=17274961>
 
 # vm and setup stuff
-<https://github.com/kholia/OSX-KVM/,> <https://news.ycombinator.com/item?id=15641115>
+<https://github.com/kholia/OSX-KVM/>, <https://news.ycombinator.com/item?id=15641115>  
 wine + windows vm, <https://news.ycombinator.com/item?id=16180437>
 
 # automating house searching  
@@ -641,7 +641,7 @@ Work Hard. Be Kind.
 
 At 25 I was barely supporting my little family, with very little hope of living beyond check to check..
 
-At 33 now, I am doing better than I ever imagined possible”
+At 33 now, I am doing better than I ever imagined possible”  
 <https://news.ycombinator.com/item?id=17596992>
 
 # "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology."  
@@ -674,5 +674,5 @@ In the face of this challenge, philosophy could either collapse into post-modern
 “It's an interesting question, one that has been bothering me as I get "older" (I'm a few years short of turning 30).
 The short answer is I'm not sure. There was a set of paths ahead of me in life and I chose one, more or less arbitrarily. I'm not sure how cognizant of it I was. I think most people operate in this manner.
 
-The long answer is that I'm not sure nor am I sure where to start. This is one of the areas where I think religion proves incredibly useful in that it gives followers a set framework and rules for existing in the world. Finding meaning in your own life is a messy and complicated task. I see the appeal of giving that power away to some sort of authority. In return you don't have to think about these challenging questions.”
+The long answer is that I'm not sure nor am I sure where to start. This is one of the areas where I think religion proves incredibly useful in that it gives followers a set framework and rules for existing in the world. Finding meaning in your own life is a messy and complicated task. I see the appeal of giving that power away to some sort of authority. In return you don't have to think about these challenging questions.”  
 <https://news.ycombinator.com/item?id=17099336>  
