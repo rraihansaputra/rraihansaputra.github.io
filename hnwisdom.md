@@ -81,18 +81,18 @@ From my favorite comments <http://raihan.co/hnfav>
 
 “There a lot of great points on this thread. We need more distinction between contextual and non-contextual advice. If one is ‘at the board’ working through a problem — then a hint or solution, moves the problem forward. On the other hand, if one is just ‘leisurely browsing advice listicles’ without being at the board, facing the problem, then most likely you are just ingesting dopamine-flavored noise.  
 Advice without context from anyone — whether it is PG, pmarca or Richard Feynman or {_your_fav_successful_survivor_} - would be useless, unless you are working/thinking about the problem that they are giving solutions for. Help only works if you are looking for something. Also sometimes it is good to just enjoy problem-solving and figuring things out. We are too quick to look for advice — and I get why: because no one wants to “reinvent the wheel”; There are too many standardized administrative things with startups that can be just solved by looking up advice; no problem with that; but sometimes it is worth struggling through a problem even though geniuses like PG and pmarca can give a solution quickly.”  
-https://news.ycombinator.com/item?id=17594709
+<https://news.ycombinator.com/item?id=17594709>>
 
 # stop hitting the dopamine boosts
 “You are drinking from the water hose. Do this long enough and your ability to concentrate will atrophy, it is a muscle that needs regular exercise. The first step is to understand what you are doing to your brain.  
 Try this: instead of merely skimming articles, make it mandatory to summarize everything you read in a few sentences. You'll very soon figure out that most what you read does not really interest you. Understanding requires work and deeper motivation to do so.”  
-https://news.ycombinator.com/item?id=17417167
+<https://news.ycombinator.com/item?id=17417167>>
 
 # human width
 "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
 
 -Robert A. Heinlein  
-https://news.ycombinator.com/item?id=16797573
+<https://news.ycombinator.com/item?id=16797573>>
 
 # seeing the world
 Don’t believe your thoughts. The voice in your head sounds like your voice but that doesn’t make it yours.
@@ -109,17 +109,17 @@ Sometimes it’s helpful to see beliefs, stereotypes, even language and habitual
 Humanity/society is multilayered. The shittiest layers get most of the publicity. There are many, many awesome people living in integrity, creating with open hearts and rich imagination. You can be one of them; the easiest way is to join their communities and friendships.  
 Friendships are sacred, and deserve your utmost integrity, attention and honesty.  
 You’re good and you are able to recognize the people who have not broken/fallen to the dark side. Trust that.  
-https://news.ycombinator.com/item?id=17032337
+<https://news.ycombinator.com/item?id=17032337>
 
 # What do you want?
 “Are you staying an engineer all your life or eventually be an exec? Do you want to be well paid or influential? Are you a PhD who likes doing one thing in depth, or are you a get-sh*t-done person who likes multiple interesting projects? Do you plan to change jobs a lot or stay one place for a long time?”  
-https://news.ycombinator.com/item?id=17421846
+<https://news.ycombinator.com/item?id=17421846>
 
 # physical health
 
 ## get fit, seriously
 “Advice to my younger self: Get really fit. Like do upside-down-handstand-push-ups fit. Fitness is an easy way to get status that requires essentially no luck. Women are attracted to high status individuals. It shows you are a hard worker, a trait that people respect. It gives you energy and health, and is much more fun than being on a computer.”  
-https://news.ycombinator.com/item?id=17595979
+<https://news.ycombinator.com/item?id=17595979>
 
 
 ## food intake  
@@ -128,14 +128,14 @@ https://news.ycombinator.com/item?id=17595979
 “your taste buds adjust over time”  
 “My energy levels jumped when I changed my lunches from carbs&protein (pasta, potato etc) to salads with protein.  
 You can put vinegar, salt and a dash of olive oil as seasoning into a salads - still no sugars.”
-https://news.ycombinator.com/item?id=12482117   
+<https://news.ycombinator.com/item?id=12482117>   
 
 “Keto + intermittent fasting is a great combo. You just feel better and less bloated day to day.”  
-https://news.ycombinator.com/item?id=17501439  
+<https://news.ycombinator.com/item?id=17501439>  
 
 ### fasting is good  
 “There is another way that recently gets a lot of attention, and it is drug-free. It's called "fasting". The practice is very old (holy books speak of it). Only recently one of fasting's method has been understood as "autophagy", which means "self-eating". When your body is starved for nutrients it turns to it's own tissues, and eats the weak/unhealthy cells first.”  
-https://news.ycombinator.com/item?id=17501439
+<https://news.ycombinator.com/item?id=17501439>
 
 ## exercise routines
 “I cancelled my gym membership. Now I just do 3 sets of: - 1m30s plank - 20 situps - 5 leg lifts - 15 pushups  
@@ -143,10 +143,10 @@ https://news.ycombinator.com/item?id=17501439
 I try to add a few reps to the sets every week or two and another exercise was a recent innovation. I started out at: - 1 minute plank - 15 situps - 10 pushups
 
 In addition I walk 35-40 minutes to and from work every day.”  
-https://news.ycombinator.com/item?id=15613282  
+<https://news.ycombinator.com/item?id=15613282>  
 
 “It's really easy to get overloaded with information when first starting out. Keep it simple, figure out what works for you.”  
-https://news.ycombinator.com/item?id=17595979  
+<https://news.ycombinator.com/item?id=17595979>  
 
 # mental health
 ## On hardship and dealing with feelings  
@@ -166,10 +166,10 @@ Celebrate the fact that you made that step, and didn't give up.
 
 >"Remember that failure is an event, not a person." Zig Ziglar”  
 
-https://news.ycombinator.com/item?id=14556635  
+<https://news.ycombinator.com/item?id=14556635>  
 
 “Folks: eat healthy, get a bit of exercise, read good books, and most of all, develop relationships with people you truly trust. If you find yourself needing to rely on smoking or drinking to get you through the week, take a step back and garbage-collect your life and decide if you're living the life you want, or if it's a life that's in need of radical restructuring.”  
-https://news.ycombinator.com/item?id=15267160  
+<https://news.ycombinator.com/item?id=15267160>  
 
 ## not only capturing thoughts for logical processing, but also emotional processing  
 The key takeaway I got from GTD was just in capturing the thought, and therefore stopping it from cropping back up in thinking, and causing stress about stuff NOT getting done. This, in an of itself, helped me greatly.
@@ -180,7 +180,7 @@ I started writing out all the things that bothered me on a continually recurring
 The difference was nearly miraculous. There's very little else that has changed my life so profoundly, and none so quickly. It's been, probably, 8-10 years ago now. I almost never have intrusive thoughts now. I still do things I regret, of course, but, with experience, I make smaller mistakes now, and my maturity in handling them has caught up to their magnitude, and there's no longer a huge gap between the action and reaction. To use a computer analogy, I cleaned out all my old core files, and now I use a garbage collected language anyway, so I'm not wasting all that disk space any more.
 
 I'm relating this in the off chance that someone like me could see it, and benefit from this as well.   
-https://news.ycombinator.com/item?id=15689963  
+<https://news.ycombinator.com/item?id=15689963>  
 
 ## Stoicism quotes
 "Your soul takes on the color of your thoughts." P59
@@ -192,11 +192,11 @@ https://news.ycombinator.com/item?id=15689963
 "You can hold your breath until you turn blue, but they'll still go on doing it." P102
 
 "Leave other people's mistakes where they lie." P122  
-https://news.ycombinator.com/item?id=13971614  
+<https://news.ycombinator.com/item?id=13971614>  
 
 ## defining success
 “Redefine "success" to center around fulfilling relationships and "enough to live on without constantly worrying" instead of around money and possessions and glory and adulation.”  
-https://news.ycombinator.com/item?id=16517323  
+<https://news.ycombinator.com/item?id=16517323>  
 
 “happiness comes from within. There is no sense wondering about the past since it cant be changed. The question is what will bring you happiness today to the rest of your life.
 I graduated in the top 50% of my high school class and had a 3.2/4 GPA at a state EE program. I hear about high school kids studying 3 hours a day, I don't think I ever studied much more than 3 hours a week. Definitely not stellar academic credentials.
@@ -206,7 +206,7 @@ I ended up entering an md phd program where I washed out after 5 years. Fast for
 Yet at no time was I unhappy, even when I was digging for change out of the couch to have enough money to buy food. I remember savoring the ridiculousness of the situation and reveling in it. Yet I'm no happier now than I was at that moment.
 
 Part of life is figuring out what truly makes you happy. For most of us it ends up being bringing happiness to others in some way, not achievement and material possessions.”  
-https://news.ycombinator.com/item?id=17389961  
+<https://news.ycombinator.com/item?id=17389961>  
 
 ## goals are not happiness
 “The hedonic treadmill is very real. If you are trying to get to happiness via achievement you will either fail to achieve the things you want, or you will realize after achieving them that they haven't made you happier. I've achieved things in my life. I didn't have any major failures until I was in my mid-20s. But no matter what achievements I had (or failures), the changes to my happiness were always temporary.
@@ -219,7 +219,7 @@ To reiterate, the things that work are the things that give you a little boost o
 This doesn't mean achieving your goals is unimportant. Anyone who knows me knows that I have a dogged persistence when it comes to achieving goals. But I don't expect them to make me happy. The key is to recognize that your goals reflect your values, the things you believe are important whether or not you expect them to make you happy.
 
 Purchase your happiness separate from your goals, it's much cheaper that way.”  
-https://news.ycombinator.com/item?id=17212414  
+<https://news.ycombinator.com/item?id=17212414>  
 
 ## pointers
 * Leave work after 8 hours without making excuses
@@ -271,13 +271,13 @@ https://news.ycombinator.com/item?id=17212414
 * Sit and stand with your back straight. (This raises your confidence and assertiveness; then makes you feel in control; then reduces anxiety, and finally improve your health).
 * Do some martial arts its a good confidence booster. It doesn't have to be MMA, even aikido can be good. And you get to socialize(with a different mindset crowd) at the same time.
 
-https://news.ycombinator.com/item?id=17523642  
+<https://news.ycombinator.com/item?id=17523642>  
 
 ## be intentional with time
 * Working on being really intentional with my time and who I spend it with
 * Working on health in all aspects (physical, mental, emotional, and financial)  
   
-https://news.ycombinator.com/item?id=17595960
+<https://news.ycombinator.com/item?id=17595960>
 
 ## being happy all the time is NOT the goal.. but satisfaction is important
 “Well, you can't be satisfied all the time. That's not how brain chemistry works in healthy individuals.
@@ -293,18 +293,18 @@ Accepting things that already are should come pretty naturally though. You may w
 “I agree, but you're not going to counter bumper sticker phrases with multi-paragraph quasi-Buddhist philosophy. :-) So I just stick with "what a load of crap".
 But you're coming at it from a different angle, I feel. Instead of "finding your passion", I hear you advising a different way of looking at it such that one can find fulfillment (for lack of better phrasing) in whatever job by matching the story in one's head to reality. I'm on board. Hell, I've been happy doing janitorial work. Was it my passion? Well, no. But it needed to be done, and I could do it, they're paying me, and in the end there's something satisfying about a clean floor. That was enough for me at the time.”
 “You guys are both right. You're saying "crap work" and "load of crap" figuratively, by my wife deals with it literally! She has a masters degree in marketing but rather run her own business than work for a boss. It's a dog kennel and three times a day she walks around the property poop-scooping. Her business is her passion, but it comes with some crap work. She's very happy.”
-https://news.ycombinator.com/item?id=17524210
+<https://news.ycombinator.com/item?id=17524210>
 
 ## do other stuff
 >My gut feeling is most of us would be better off doing something completely different in our spare time, ideally something that doesn't involve sitting behind a keyboard.  
 >>Your gut wants you to exercise and take hikes looking at green things every once in a while.  
 
-https://news.ycombinator.com/item?id=17015819  
+<https://news.ycombinator.com/item?id=17015819>  
 
 “Stay the course, but be sure to have interests and hobbies that don't involve sitting in front of a computer. I wouldn't change anything about my career trajectory. I'm glad I spent four years in a huge corporation, and I'm glad that I've had the opportunity to work in (and create) companies of all different sizes subsequently.
 
 It's not even a regret, per se, but I wish I'd gotten more serious about photography in/around 2007 instead of dithering for another six years.”  
-https://news.ycombinator.com/item?id=17595872  >> email this guy
+<https://news.ycombinator.com/item?id=17595872>  >> email this guy
 
 ## the joy of missing out
 “I've regained a lot of mental peace once I quit Instagram. When you have hundreds of friends and follow random influencers, you get the impression that every single person is always on a beach in Bali, eating at Michelin star restaurants, riding Lambos and partying with attractive, successful people in the most exclusive venues in exotic locations. In the meanwhile you're a corporate drone stuck in traffic to get to your grey cubicle, dealing with a shitty boss, trying to figure out how to pay rent.
@@ -317,7 +317,7 @@ It feels SO much better to swim in one's lane (basically JOMO), not looking arou
 I'm not a religious person, but there's something really powerful in the admonition not to covet your neighbor's spouse, house, animals... which is what I sense my brain doing on social media.
 
 The genius of IG is that it makes people willingly subscribe to hours of marketing every day. Zuckerberg got one hell of a deal on that company, 1 bil for it has to be the greatest deal of the century.”  
-https://news.ycombinator.com/item?id=17537299
+<https://news.ycombinator.com/item?id=17537299>
 
 # relationship
 ## time
@@ -327,7 +327,7 @@ We are living in the tail end of most of our cherished relationships (with famil
 1) Priorities matter. Your remaining face time with any person depends largely on where that person falls on your list of life priorities. Make sure this list is set by you—not by unconscious inertia.
 
 2) Quality time matters. If you’re in your last 10% of time with someone you love, keep that fact in the front of your mind when you’re with them and treat that time as what it actually is: precious."
-http://waitbutwhy.com/2015/12/the-tail-end.html
+<http://waitbutwhy.com/2015/12/the-tail-end.html>
 
 ## Be kind and caring - with effort.  
 “My uncle died suddenly this year. He was unbelievably caring - and not just to family - but to everyone he ever met. His funeral was jam packed with everyone from homeless people to executives of multi-billion dollar companies.
@@ -335,7 +335,7 @@ I always thought that his ability to always have you, and whatever you had last 
 It didn't lessen his genuine love for everyone, just let him be a little more super human.”  
 Appreciate people.  
 “Most of us get told how special and amazing we are by our parents and family all the time growing up. Often times the praise isn't really deserved since we're special snowflakes. When a stranger, family friend or anyone not related gives praise or reward it can be extremely impactful and reinforce that we're on the right path and that it really does matter. Those moments get seared into our memories.”  
-https://news.ycombinator.com/item?id=14498590  
+<https://news.ycombinator.com/item?id=14498590>  
 
 ## Be nice  
 “It's probably a mix of all of it, but there are more people struggling than it first appears. Relevant quote from a prominent leader in a church I attend:
@@ -343,7 +343,7 @@ https://news.ycombinator.com/item?id=14498590
 When I was a young man, I served as counselor to a wise district president in the Church. He tried to teach me. One of the things I remember wondering about was this advice he gave: "When you meet someone, treat them as if they were in serious trouble, and you will be right more than half the time."
 
 I thought then that he was pessimistic. Now, more than 40 years later, I can see how well he understood the world and life.”  
-https://news.ycombinator.com/item?id=17176036  
+<https://news.ycombinator.com/item?id=17176036>  
 
 ## Communication is hard
 “I was thinking about communication the other day and came up with an aphorism:
@@ -356,7 +356,7 @@ By which I mean we wouldn’t even recognise the nature of the intelligence pres
 "It's a bit sad we can't yet fully communicate with other life here effectively. I wonder what ethical implications it would have if we ever got there. An analogy to the current state may be that of a man from another language trying to ask for directions to an autistic kid.
 
 What does it mean to understand?”  
-https://news.ycombinator.com/item?id=17512694
+<https://news.ycombinator.com/item?id=17512694>
 
 ## sounding board, not advisors
 “For a founder, this means picking a single adviser who can inform your thinking, rather than someone who makes decisions for you.
@@ -371,7 +371,7 @@ When I was raising my kids, I operated on the assumption that they knew a bajill
 So, for example, the summer my oldest turned two and we got a hand-me-down winter coat in the mail that perfectly matched his new shoes and he was enamored that they matched and wanted to wear them together, I didn't tell him "No, you can't wear a winter coat in summer." (It was Germany and it was fairly cool that summer anyway.) Instead, I told him "Don't put the hood on and don't zip it closed. Half your heat escapes from your head. If you leave the hood off, you should be okay." And he then put the hood on and off a dozen times to test what he had just been told.
 
 Because of this incident, years later in elementary school in Kansas -- which was colder than Germany -- he was better at keeping himself warm while playing outside in winter than his classmates. He was typically the last child still outside for recess. Everyone else went in before recess was over because they were too cold.”  
-https://news.ycombinator.com/item?id=17594009
+<https://news.ycombinator.com/item?id=17594009>
 
 # How to deal with my ADHD tendency
 Step 1: Figure out where the problems are. This means, before you make any changes, record when things go right / wrong and map out places that need change. (and I know, making ADHD people carefully analyze and wait it out is the most ridiculous thing ever but...)
@@ -392,7 +392,7 @@ More about the changes in step 2:
 Most importantly, the things you need have to be at where you perform the task, not in the office. I have 3 whiteboards in my house and they are constantly full with relevant, localized info, plans, lists, schedules, etc. I use painter's tape and markers to label everything. Do not label the cats. They do not like it. I routinely go through ~3 rolls of tape a month.
 
 4) You need your environment to fit you, not the other way around. If you can't focus at work, either make changes to where / how you work or find a new job. If your home/neighborhood/city is the wrong size, shape, or activity level, change it. It's that simple, and that serious. A significant undertaking and one that I'm definitely still working on.
-https://news.ycombinator.com/item?id=15164619
+<https://news.ycombinator.com/item?id=15164619>
 
 # Organizing thoughts
 ## Trello boards  
@@ -406,7 +406,7 @@ https://news.ycombinator.com/item?id=15164619
 - Ready: Ideas where I've thought through and documented market fit, timeline, tech stack, marketing, or whatever the project needs. And crucially: first thing to do when I start the project, which makes it easier to get going.
 
 When I have free time I look down my Ready list and pick something interesting, and I've done the prep already to get stuck in straight away.”  
-https://news.ycombinator.com/item?id=14669763  
+<https://news.ycombinator.com/item?id=14669763>  
   
 ## Evaluating Ideas  
 “Here's what works for me:
@@ -423,7 +423,7 @@ https://news.ycombinator.com/item?id=14669763
 * Is this something I can launch by myself quickly?
 
 There are more stuff you could ask to the list of questions, but basically the idea that has 'Yes' to all of these questions, is the one you should be jumping on right away. Cross away the other ideas that have No's, or try to figure out how to turn it into a Yes. But your time is limited, so don't waste it bouncing around with ideas that aren't a good fit.”  
-https://news.ycombinator.com/item?id=15185432  
+<https://news.ycombinator.com/item?id=15185432>  
 
 ## prioritizing list  
 “I create two lists: needs and wants. I prioritise them as such:
@@ -432,12 +432,12 @@ https://news.ycombinator.com/item?id=15185432
 This is applied to both sets of items on each type of list.
 
 Now I know what I NEED to do above all else, and then I can get to what I WANT to do later.”  
-https://news.ycombinator.com/item?id=16854385  
+<https://news.ycombinator.com/item?id=16854385>  
 
 # Doing stuff
 ## build relationships, quickly
 “I am a bit surprised all the comments so far are tech or process oriented. On my side, I try to say "Good morning" to everyone and get to know them a bit better. It allows me to quickly identify the key resource I need to get answer and being friendly usually make them reply faster.”  
-https://news.ycombinator.com/item?id=17354843  
+<https://news.ycombinator.com/item?id=17354843>  
 
 ## stages
 In Sanskrit, there's a poem about hand gestures:
@@ -448,10 +448,10 @@ In Sanskrit, there's a poem about hand gestures:
 "Yato manaha stato bhava"..."Where the mind is, there is the feeling"
 
 "Yato bhava stato rasa"..."Where the feeling is, there is mood”  
-https://news.ycombinator.com/item?id=14016233 
+<https://news.ycombinator.com/item?id=14016233> 
 ## just start doing 
 “I still remember a comment - which was almost equivalent to a dozen books, around why some people are successful - something to the effect that it is not that we lack information, or lack access to information but the fact that our mind is so full of input that we don't act on what we already know we need to do.”  
-https://news.ycombinator.com/item?id=16410457  
+<https://news.ycombinator.com/item?id=16410457>  
 ## On Side Projects
 The way I see it there are only a few reasons that I would ever do a side project.
 
@@ -475,11 +475,11 @@ Taking those reasons into account:
 4. I find coding and problem solving "fun" That's why I enjoy my job. If I'm not enjoying my job, it's time to get a new one.
 
 But I do spend maybe 5-6 hours a week studying and watching tech videos in my downtime or when I'm working out in my home gym.  
-https://news.ycombinator.com/item?id=17015819  
+<https://news.ycombinator.com/item?id=17015819>  
 
 ## diminishing returns to preparation
 “There are diminishing returns to preparation: focus less on preparation (to include going to prestigious institutions and working for prestigious companies) and more on launching, learning, and iterating. This is true in business and a variety of other fields.”  
-https://news.ycombinator.com/item?id=17031939
+<https://news.ycombinator.com/item?id=17031939>
 
 # On presenting
 
@@ -490,14 +490,14 @@ Build a (user) story. Why are presenting? What do you want to accomplish by taki
 The other big thing is to reduce text content to the bare minimum. Remove sentences (move them to speaker notes, if you want). Keep rephrasing things to make it shorter. If you have lots of text on screen people read it and don't pay attention to you. If you're reading the text verbatim, you might as well just email your content and not waste the time talking.
 
 Visuals are good when possible. Even dumb stock photos can work: for example, if you're making an argument that your onboarding process is too complex, a photo of a crazy highway interchange can help reinforce that. It certainly leaves a more lasting impression that a 9-point bulleted wall of text.”   
-https://news.ycombinator.com/item?id=15641315
+<https://news.ycombinator.com/item?id=15641315>
 
 ## again, visuals. pared down visuals.  
 “The best-constructed talk i ever saw as as scientist was by a medic who considered himself far too busy and important to spend time mucking around with Powerpoint. The only slides he had were figures of his results - photomicrographs of tissue, graphs of drug effects, etc - probably lifted from a paper in preparation, and so probably done by his graduate students anyway. This meant that there were only a handful of slides, so very few distracting transitions to distract from his talking, and the screen was always full of important content.
 Needless to say, that this guy's combination of laziness and arrogance had led to him to have a much better presentation than me with much less effort left me absolutely furious.”  
-https://news.ycombinator.com/item?id=15632693  
+<https://news.ycombinator.com/item?id=15632693>  
 
-https://github.com/josephwright/beamer, https://news.ycombinator.com/item?id=15636851
+<https://github.com/josephwright/beamer,> <https://news.ycombinator.com/item?id=15636851>
 
 
 # Interesting business model
@@ -512,27 +512,27 @@ https://github.com/josephwright/beamer, https://news.ycombinator.com/item?id=156
   - posting by sending a link to slack and making a summary
   - When ready, automatically posted to SocMed and push notifs
 - pattern of “Proficient in X and Y”
-https://www.indiehackers.com/interview/growing-through-automation-social-media-and-experience-991cd6afcd  
-https://news.ycombinator.com/item?id=15150622  
+<https://www.indiehackers.com/interview/growing-through-automation-social-media-and-experience-991cd6afcd>  
+<https://news.ycombinator.com/item?id=15150622>  
 
 # Random Reading/Watching
-Hannu Rajaniemi (on privacy and identity), https://news.ycombinator.com/item?id=13983972  
-http://directingmind.com/ (quotes from Meditations),  https://news.ycombinator.com/item?id=13970017
-https://www.imdb.com/title/tt2089050/ (Black Mirror), https://news.ycombinator.com/item?id=16933005  
+Hannu Rajaniemi (on privacy and identity), <https://news.ycombinator.com/item?id=13983972>>
+<http://directingmind.com/>> (quotes from Meditations),  <https://news.ycombinator.com/item?id=13970017>>
+<https://www.imdb.com/title/tt2089050/>> (Black Mirror), <https://news.ycombinator.com/item?id=16933005>>  
 
 
 # Book list
-Manual of the Mercenary Soldier (1988), Paul Balor, https://news.ycombinator.com/item?id=12640780  
-Zen and the Art of Motorcycle Maintenance, Robert Pirsig, https://news.ycombinator.com/item?id=13967883  
-Influence: The Psychology of Persuasion, Robert Cialdini, https://news.ycombinator.com/item?id=13967822  
-Meditations, Marcus Aurelius (find a suitable translation), https://news.ycombinator.com/item?id=13969479  
-How to Lie with Statistics, Darrell Huff, https://news.ycombinator.com/item?id=13968889  
-Fooled by Randomness, Nassim Nicholas Taleb, https://news.ycombinator.com/item?id=13968889  
-Antifragile, Nassim Nicholas Taleb, https://news.ycombinator.com/item?id=13967683  
-The Black Swan (2nd edition), Nassim Nicholas Taleb, https://news.ycombinator.com/item?id=13968889  
-Man's Search For Meaning, Viktor Frankl, https://news.ycombinator.com/item?id=13967989
-"How Buildings Learn: What Happens After They're Built”, Steward Brand(?), https://news.ycombinator.com/item?id=17023817  
-"The Influential Mind”, Tali Sharot, https://news.ycombinator.com/item?id=17087000
+Manual of the Mercenary Soldier (1988), Paul Balor, <https://news.ycombinator.com/item?id=12640780>>  
+Zen and the Art of Motorcycle Maintenance, Robert Pirsig, <https://news.ycombinator.com/item?id=13967883>>  
+Influence: The Psychology of Persuasion, Robert Cialdini, <https://news.ycombinator.com/item?id=13967822>>  
+Meditations, Marcus Aurelius (find a suitable translation), <https://news.ycombinator.com/item?id=13969479>>  
+How to Lie with Statistics, Darrell Huff, <https://news.ycombinator.com/item?id=13968889>>  
+Fooled by Randomness, Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13968889>>  
+Antifragile, Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13967683>>  
+The Black Swan (2nd edition), Nassim Nicholas Taleb, <https://news.ycombinator.com/item?id=13968889>>  
+Man's Search For Meaning, Viktor Frankl, <https://news.ycombinator.com/item?id=13967989>>
+"How Buildings Learn: What Happens After They're Built”, Steward Brand(?), <https://news.ycombinator.com/item?id=17023817>>  
+"The Influential Mind”, Tali Sharot, <https://news.ycombinator.com/item?id=17087000>>
 
 ## On Programming
 Three boks I'll recommend you read as soon as possible.
@@ -542,27 +542,27 @@ Three boks I'll recommend you read as soon as possible.
 
 3) Code Complete.
  
-https://news.ycombinator.com/item?id=17031874  
+<https://news.ycombinator.com/item?id=17031874>>  
 
 # Learning
-Product Design Course on edX, TU Delft, https://news.ycombinator.com/item?id=13164445  
+Product Design Course on edX, TU Delft, <https://news.ycombinator.com/item?id=13164445>>  
 
 # Podcasts
-Update-Crispr, Radiolab, https://news.ycombinator.com/item?id=14249659  
+Update-Crispr, Radiolab, <https://news.ycombinator.com/item?id=14249659>>  
 
 # What I’ve watched but want to recommend to people
-Fictional World War 3 Documentary, https://news.ycombinator.com/item?id=14508078
+Fictional World War 3 Documentary, <https://news.ycombinator.com/item?id=14508078>
 
 # Random Quotes
 ## on fulfillment  
 “When something competes with established channels for individual fulfillment, the people who control those channels (politicians, manufacturers, priests, ministers) will oppose, vilify, and demonize it.” 
-https://news.ycombinator.com/item?id=15512691  
+<https://news.ycombinator.com/item?id=15512691>  
 
 “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams  
-https://news.ycombinator.com/item?id=15633593  
+<https://news.ycombinator.com/item?id=15633593>  
 
 “What someone doesn't want you to publish is journalism, all else is publicity.” - Paul Fussell  
-https://news.ycombinator.com/item?id=15633765   
+<https://news.ycombinator.com/item?id=15633765>   
 
 # don’t program in vacuum
 “I didn't realize this until after college, but outside of a CS 101 class you can't be just a programmer. Programming doesn't happen in a vacuum - it must be applied to a domain.
@@ -572,28 +572,28 @@ For some people, a lot of whom are on this website, the domain can be computer s
 However, there are a lot of interesting problems to be solved in other domains that require programming. Economic models, biotechnology, digital synthesizers, etc.
 
 Unfortunately, without the domain knowledge required in those fields, it's pretty hard to find a job solving those problems. All that's left is CRUD work where the domain is opaque business logic that requires little to no expertise but is dreadfully boring.”  
-https://news.ycombinator.com/item?id=17500465  
+<https://news.ycombinator.com/item?id=17500465>  
 
 “I think development is one of the coolest jobs out there. With dev skills, you can do everything from building websites to physics models to game development to data science... I'm not saying all you need is coding, but you can't do most of these things without code!”
 “I personally support your point 100%.
 If you asked my wife she would reply: “Meh, in the end you are sitting in front of a screen all day and just typing on your keyboard for 40 years“
 
 Perspectives... :)”  
-https://news.ycombinator.com/item?id=17500305  
+<https://news.ycombinator.com/item?id=17500305>  
 
 # not burning out while being a creator
 “I dunno, I’ve been absolutely delighted that Patreon has made it possible to pay my rent by drawing arcane comics about robot ladies with Phillip K Dick problems and cartoon animals in space. Especially since I don’t have to crank out product every single day without any break like these Youtube kids do; I can actually have downtime to go for a walk in the park, watch a movie, play a video game... these folks sound absolutely miserable in part because they are constantly working on stuff for their channels, without a chance to build up a buffer, or ever do anything else besides bars survival necessities.
 To extend your analogy, these folks have to ride that horse all day, every day, from dawn to dusk, and they are starting to get some serious saddle sores.”  
-https://news.ycombinator.com/item?id=17213233  
+<https://news.ycombinator.com/item?id=17213233>  
 
 
 # interesting projects
 ## hypertext.town
 host simple websites!  
-https://hackernews.hypertext.town/  
-https://news.ycombinator.com/item?id=17060619   
+<https://hackernews.hypertext.town/>  
+<https://news.ycombinator.com/item?id=17060619>   
 ## host your own video stream  
-https://news.ycombinator.com/item?id=17050260  
+<https://news.ycombinator.com/item?id=17050260>  
 
 # code structuring
 “I reproduce the relevant part:
@@ -602,26 +602,26 @@ Dependencies (coupling) is an important concern to address, but it's only 1 of 4
 
 State > Coupling > Complexity > Duplication. I find that to be a very sensible ordering of concerns to keep in mind when addressing any of those.”
 “>> Existing code exerts a powerful influence. Its very presence argues that it is both correct and necessary.“  
-https://news.ycombinator.com/item?id=17580194
+<https://news.ycombinator.com/item?id=17580194>
 
 # static sites
-https://news.ycombinator.com/item?id=17500002
+<https://news.ycombinator.com/item?id=17500002>
 
 # csv data manipulation using SQLite and csvkit
-https://news.ycombinator.com/item?id=17141294
+<https://news.ycombinator.com/item?id=17141294>
 
 # computer setups
-vim+tmux, https://news.ycombinator.com/item?id=17274961
+vim+tmux, <https://news.ycombinator.com/item?id=17274961>
 
 # vm and setup stuff
-https://github.com/kholia/OSX-KVM/, https://news.ycombinator.com/item?id=15641115
-wine + windows vm, https://news.ycombinator.com/item?id=16180437
+<https://github.com/kholia/OSX-KVM/,> <https://news.ycombinator.com/item?id=15641115>
+wine + windows vm, <https://news.ycombinator.com/item?id=16180437>
 
 # automating house searching  
-https://news.ycombinator.com/item?id=17390538  
+<https://news.ycombinator.com/item?id=17390538>  
 
 # on learning unix utility shells
-https://news.ycombinator.com/item?id=17138113
+<https://news.ycombinator.com/item?id=17138113>
 
 # advice to the past
 “You don't need to make a relationship without a solid foundation work just because you had a child.
@@ -642,16 +642,16 @@ Work Hard. Be Kind.
 At 25 I was barely supporting my little family, with very little hope of living beyond check to check..
 
 At 33 now, I am doing better than I ever imagined possible”
-https://news.ycombinator.com/item?id=17596992
+<https://news.ycombinator.com/item?id=17596992>
 
 # "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology."  
-https://news.ycombinator.com/item?id=17512694
+<https://news.ycombinator.com/item?id=17512694>
 
 # deconstructing bullshit business speak
-https://news.ycombinator.com/item?id=12793033
+<https://news.ycombinator.com/item?id=12793033>
 
 # visceral experiences on killing animals
-https://news.ycombinator.com/item?id=12655610  
+<https://news.ycombinator.com/item?id=12655610>  
 
 # why art self-destructed
 “Before 1914, it was still possible to be naive in the West and believe that everything happens for some sort of supreme purpose. Then we saw the mass destruction of humans on a society-wrecking scale, senseless deaths among the shells and gas; an entire generation returning with unacknowledged PTSD. Then this power got turned on civilians. The only possible response artistically to Guernica was a sprawling, fractured, ugly painting. Inevitably the catastrophe scaled up: everything "traditional" was appropriated and turned to Fascism, and Fascism destroyed everything that it could reach that didn't support it. Finally we built the Bomb, and realised that there wasn't really anything standing between us and the power to destroy entire civilisations in an afternoon.
@@ -659,20 +659,20 @@ https://news.ycombinator.com/item?id=12655610
 We were standing in the wreckage of our own ethical systems, and have had to gradually rebuild them. This gave us the principles of human rights, and the realisation that equality of respect was the only real moral imperative. If we allow humans to deem other humans to be inherently inferior, this will be used to justify mass atrocities. Nobody is coming to redeem us and there is no final judgement to look forward to; we have to liberate ourselves in this lifetime.
 
 In the face of this challenge, philosophy could either collapse into post-modernism, an endless hall of mirrors of signifier and signified; or it could mobilise and be used to deconstruct power relations and correctly label injustices. That gave us post-colonialism, queer theory, multiple generations of feminism, and so on. We have to live with the Other, and the question is how.”  
-https://news.ycombinator.com/item?id=17156770  
+<https://news.ycombinator.com/item?id=17156770>  
 
 # no, work does not have to be (and improbably is) interesting
-https://news.ycombinator.com/item?id=17236586
+<https://news.ycombinator.com/item?id=17236586>
 
 # Ask HN: What do you live for?
-https://news.ycombinator.com/item?id=17097402
+<https://news.ycombinator.com/item?id=17097402>
 
 “Must one have something to live for? I expect it's pretty common not to know, and to keep going from day to day driven by base animal instinct to survive. Many of the common answers are just rationalizations.”  
-https://news.ycombinator.com/item?id=17105513  
+<https://news.ycombinator.com/item?id=17105513>  
 
 ## religion as a set framework
 “It's an interesting question, one that has been bothering me as I get "older" (I'm a few years short of turning 30).
 The short answer is I'm not sure. There was a set of paths ahead of me in life and I chose one, more or less arbitrarily. I'm not sure how cognizant of it I was. I think most people operate in this manner.
 
 The long answer is that I'm not sure nor am I sure where to start. This is one of the areas where I think religion proves incredibly useful in that it gives followers a set framework and rules for existing in the world. Finding meaning in your own life is a messy and complicated task. I see the appeal of giving that power away to some sort of authority. In return you don't have to think about these challenging questions.”
-https://news.ycombinator.com/item?id=17099336  
+<https://news.ycombinator.com/item?id=17099336>  
