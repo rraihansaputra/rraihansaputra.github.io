@@ -1,5 +1,5 @@
 # Wisdoms of HN
-From my favorite comments http://raihan.co/hnfav
+From my favorite comments [http://raihan.co/hnfav]
 
 #TODO: Action Plan
 
