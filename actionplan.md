@@ -1,3 +1,5 @@
+# Wisdoms of HN: Action Plan  
+
 ## No more advice seeking unless necessary.  
  - No searching for 'best' 'top' etc unless stuck with current resource
 - have a problem first, then look at advice/research
